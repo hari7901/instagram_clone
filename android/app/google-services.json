@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87671064041",
+    "project_id": "hari-ed76d",
+    "storage_bucket": "hari-ed76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87671064041:android:9f282871e26fb490bfb778",
+        "android_client_info": {
+          "package_name": "com.example.gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7T7GClpKp7NdXLkOnf_xQf47X7d06kLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
